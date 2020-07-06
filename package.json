@@ -1,0 +1,14 @@
+{
+  "name": "Testes",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "crypto": "^1.0.1",
+    "qs": "^6.9.4"
+  }
+}
